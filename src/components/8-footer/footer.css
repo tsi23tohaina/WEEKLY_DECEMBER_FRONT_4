@@ -1,0 +1,35 @@
+.footer{
+    padding: 107px 0px 107px 0px;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+}
+
+.rows1{
+    display: flex;
+    gap: 80px;
+}
+
+.ligne1{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.lig-text{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+}
+
+.ligne2{
+    display: flex;
+    gap: 20px;
+    padding: 20px 0 20px 0;
+}
+
+.lien{
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.partner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 100px;
+    gap: 50px;
+}
+
+.LogoPartner{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+.three-logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}

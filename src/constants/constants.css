@@ -1,0 +1,197 @@
+.btn,.btnPrim{
+    color: white;
+    border: 1px solid white;
+    outline: none;
+    background: #181818;
+    padding: 10px 26px 10px 26px;
+    box-shadow: 0px 4px 31px 0px #00000026;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    cursor: pointer;
+}
+
+.btnPrim{
+    background: #4452FE;
+    border: 1px solid #4452FE;
+}
+
+.para{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    width: 582px;
+}
+
+/* heading */
+.head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+
+}
+
+.head-title{
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+}
+
+.head-description{
+    width: 571px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+}
+
+.tblock{
+    display: flex;
+    align-items: start; 
+    flex-direction: column;
+}
+
+.titre-logo{
+    display: flex;
+    align-items: center;
+    
+}
+
+.mint{
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    width: 150px;
+}
+
+.min-para{
+    padding: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    width: 249px;
+}
+
+/** 3-content7 **/
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 476px;
+    gap: 57px;
+    padding: 40px 0px 40px 0px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 31px 0px #00000026;
+    background: white;
+    border: 1px solid #D3D3D3;
+}
+
+
+.cotitle{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    padding: 10px;
+}
+
+.coPara{
+    color: #5C5C5C;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    padding: 10px;
+    width: 268px;
+}
+
+
+/**************************** partie du 6-testimonial **********************************/
+.testim{
+    border: 1px solid #DEDEDE;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 40px;
+    gap: 30px;
+    width: 330px;
+    border-radius: 10px;
+}
+
+.av-nom{
+    display: flex;
+    align-items: start;
+    gap: 13px;
+}
+
+.nom-compt{
+    display: flex;
+    flex-direction: column;
+}
+
+.nom{
+    padding: 0;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    padding: 0px 10px 0px 10px;
+}
+
+.compte{
+    margin-top: 2px;
+    padding: 0px 10px 0px 10px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+}
+
+.text-desc{
+    width: 320px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+}
+
+/****************** 8-footer partie **************/
+.Liste{
+    display: flex;
+    flex-direction: column;
+}
+
+.style-title{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+}
+
+.mots{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+}

@@ -1,0 +1,31 @@
+.cta{
+    padding-bottom: 100px;
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cta-div{
+    background: #343434;
+    display: flex;
+    align-items: center;
+    border-radius: 33px;
+}
+
+.paraStyleCta{
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    width: 475px;
+}
+
+.left-content{
+    padding: 17px 94px 17px 94px;
+}
+
+.radius{
+    border-bottom-right-radius:33px ;
+}

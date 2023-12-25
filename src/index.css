@@ -1,0 +1,17 @@
+
+@font-face {
+  font-family: "Graphik";
+  src: url("./font/GraphikCompact-Regular-Trial.otf");
+}
+body {
+  margin: 0;
+  font-family: "Graphik";
+  background:#181818;
+  color: white;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+

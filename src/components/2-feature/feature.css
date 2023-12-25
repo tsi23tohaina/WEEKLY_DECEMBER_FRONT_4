@@ -1,0 +1,35 @@
+.feature{
+    padding-bottom: 50px;
+}
+
+.frame20{
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.chat{
+    width: 696px;
+}
+
+.frame19{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+
+.chat1{
+    width: 400px;
+    position: absolute;
+    margin-top: 420px;
+    margin-right: -20px;
+}
+
+.content-rows{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding: 20px;
+}

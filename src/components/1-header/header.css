@@ -1,0 +1,64 @@
+.header{
+    background: #181818;
+    color: white;
+    padding-top: 20px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.menu-burger{
+    display: none;
+}
+
+.menu{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.link{
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+}
+
+.text1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titre{
+    font-size: 80px;
+    font-weight: 500;
+    line-height: 88px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    width: 700px;
+}
+
+.bouttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.screens{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image{
+    width: 100%;
+}

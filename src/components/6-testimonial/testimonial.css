@@ -1,0 +1,15 @@
+.testimonial{
+    padding-bottom: 100px;
+}
+
+.personne{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.perso{
+    display: flex;
+    gap: 20px;
+}

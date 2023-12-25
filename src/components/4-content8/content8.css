@@ -1,0 +1,22 @@
+.content8{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 50px;
+}
+
+.images{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.part1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.part{
+    display: flex;
+    justify-content: space-between;
+}
